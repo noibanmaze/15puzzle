@@ -1,3 +1,5 @@
 #include<stdio.h>
-puts("");
-[EOF]
+int main(void){
+    puts("");
+    return 0;
+}
